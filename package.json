@@ -1,0 +1,23 @@
+{
+  "name": "robots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trovati/webScrappingRobots.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trovati/webScrappingRobots/issues"
+  },
+  "homepage": "https://github.com/trovati/webScrappingRobots#readme",
+  "dependencies": {
+    "robots-parser": "^2.1.1"
+  }
+}
